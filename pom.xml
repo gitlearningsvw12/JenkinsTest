@@ -47,6 +47,13 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-eureka-server</artifactId>
     </dependency>
+	
+	<dependency>
+    <groupId>axis2</groupId>
+    <artifactId>axis2</artifactId>
+    <version>1.0</version>
+</dependency>
+	
   </dependencies>
   
   
